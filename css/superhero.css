@@ -1,0 +1,39 @@
+body {
+	width:90%;
+	margin:0 auto;
+	background-image: url("images/background2.jpg");
+	font-family:;}
+h1, h2 {
+	size:3m;
+	color:#ffffff;}
+p{
+	color:#ffffff;}
+div{
+	height: 300px;
+	width: 400px;
+	height:75%;
+	width:75%;
+	border:5px solid #ffffff;
+	text-align: left;
+	padding: 5px;
+	margin: 75px auto 75px auto;}
+input{
+	font-size:120%;
+	color:#000000;
+	background-color:#ffffff;
+	border:1px solid #000000;
+	border-radius:5px;
+	padding: 5px 5px 5px 30px;
+	margin-bottom:10px;}
+input#submit {
+	color:#;}
+input#submit:hover{
+	color:;
+	border:;
+	border:;
+}
+
+#supermanform{
+	width: 246px;
+	margin:auto;
+}
